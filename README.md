@@ -70,8 +70,8 @@ I applied for the **AMD Developer Cloud** to gain access to real AMD GPU hardwar
 
 ## 📫 Connect
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **GitHub**: [@yourusername](https://github.com/yogilesmanaowel)
+- **LinkedIn**: [Your Name](https://linkedin.com/in/yogilesmanaowel)
 
 ---
 
